@@ -18,6 +18,8 @@ class AssignsController < ApplicationController
       destroy_message = assign_destroy(assign, assign.user)
 
       redirect_to team_url(params[:team_id]), notice: destroy_message
+    else
+      redirect_to team_url(params[:team_id])
     end
   end
 

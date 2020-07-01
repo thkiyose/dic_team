@@ -220,6 +220,7 @@ ja:
       update_team: 'チーム更新に成功しました！'
       delete_team: 'チーム削除に成功しました！'
       owner_change: 'チームのリーダー権限を譲渡しました！'
+      owner_change_mail: 'チームのリーダー権限があなたに譲渡されました。'
       update_profile: 'プロフィールを編集しました！'
       complete_registration: '登録完了'
       edit_article: '記事を編集する'
